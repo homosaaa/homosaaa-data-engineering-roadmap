@@ -60,3 +60,6 @@ Covers Docker fundamentals, images, containers, networking, volumes, Dockerfiles
 * [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 
 A free, hands-on Data Engineering course covering areas such as workflow orchestration, data warehousing, analytics engineering, batch processing, streaming, and a final project.
+
+<img width="500" height="396" alt="image" src="https://github.com/user-attachments/assets/d47340ff-25a0-4ada-a26c-fa71c9810ef6" />
+
